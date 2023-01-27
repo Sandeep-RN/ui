@@ -24,7 +24,7 @@ Starting a new project? Check out the Next.js template.
 npx create-next-app -e https://github.com/shadcn/next-template
 ```
 
-### Features
+### Features:
 
 - Radix UI Primitives
 - Tailwind CSS
@@ -33,7 +33,7 @@ npx create-next-app -e https://github.com/shadcn/next-template
 - Dark mode with `next-themes`
 - Automatic import sorting with `@ianvs/prettier-plugin-sort-imports`
 
-### Tailwind CSS Features
+### Tailwind CSS Features:
 
 - Class merging with `tailwind-merge`
 - Animation with `tailwindcss-animate`
